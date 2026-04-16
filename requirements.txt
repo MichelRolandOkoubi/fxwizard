@@ -1,0 +1,19 @@
+# Core libraries
+pandas
+numpy
+TA-Lib
+scikit-learn
+xgboost
+tensorflow
+MetaTrader5
+vectorbt
+python-dotenv
+requests
+colorama
+fastapi
+uvicorn
+pyyaml
+streamlit
+plotly
+textblob
+yfinance
